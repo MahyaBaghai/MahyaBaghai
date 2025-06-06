@@ -10,5 +10,5 @@
   </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/gh/MahyaBaghai/MahyaBaghai@main/assets/scripts/terminal.js"></script>
+<script src="https://github.com/MahyaBaghai/MahyaBaghai@main/assets/scripts/terminal.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MahyaBaghai/MahyaBaghai@main/assets/styles/terminal.css">
