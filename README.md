@@ -3,6 +3,10 @@
   <br/>
    <br/>
 </div>
-<div align="left">
-  <img src="sayHello.gif" alt="hi there" width="10%" >
-</div>
+<h1> 👋 Hi there</h1>
+<p>
+  
+</p>
+<h2> 🧰  My toolbox</h2>
+<h2> 📊  Stats</h2>
+<h2> 📞 Contact me</h2>
