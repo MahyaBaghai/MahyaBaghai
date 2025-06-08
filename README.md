@@ -25,5 +25,11 @@
  
 </p>
 
-<h2> 📊  Stats</h2>
+<!--<h2> 📊  Stats</h2>-->
 <h2> 📞 Contact me</h2>
+<p>
+<img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
+</p>
