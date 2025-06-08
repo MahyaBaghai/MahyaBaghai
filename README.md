@@ -27,9 +27,16 @@
 
 <!--<h2> 📊  Stats</h2>-->
 <h2> 📞 Contact me</h2>
-<p>
+<!--<p>
 <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
+</p>
+-->
+<p>
+  <a href="https://t.me/Mahya_Baghai"> <img src="media/telegram.png" alt="telegram" width="40" height='40' /></a> &nbsp;
+  <a href="https://wa.me/qr/3I52DYLSXSDFH1"> <img src="media/whatsapp.png" alt="whatsapp" width="40" height='40' /> </a> &nbsp;
+    <a href="https://mahya.baghai@gmail.com"><img src="media/gmail.png" alt="gmail" width="45" height='45' /></a>
+   <img src="media/linkedIn.png" alt="linkedIn" width="50" height='40' />
 </p>
