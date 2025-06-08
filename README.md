@@ -35,8 +35,8 @@
 </p>
 -->
 <p>
-  <a href="https://t.me/Mahya_Baghai"> <img src="media/telegram.png" alt="telegram" width="40" height='40' /></a> &nbsp;
-  <a href="https://wa.me/qr/3I52DYLSXSDFH1"> <img src="media/whatsapp.png" alt="whatsapp" width="40" height='40' /> </a> &nbsp;
-    <a href="https://mahya.baghai@gmail.com"><img src="media/gmail.png" alt="gmail" width="45" height='45' /></a>
+  <a href="https://t.me/Mahya_Baghai" target='_blank'> <img src="media/telegram.png" alt="telegram" width="40" height='40' /></a> &nbsp;
+  <a href="https://wa.me/qr/3I52DYLSXSDFH1" target='_blank'> <img src="media/whatsapp.png" alt="whatsapp" width="40" height='40' /> </a> &nbsp;
+    <a href="https://www.mahya.baghai@gmail.com" target='_blank'><img src="media/gmail.png" alt="gmail" width="45" height='45' /></a>
    <img src="media/linkedIn.png" alt="linkedIn" width="50" height='40' />
 </p>
