@@ -8,5 +8,8 @@
   
 </p>
 <h2> 🧰  My toolbox</h2>
+
+  <img src="skill.png" alt="Animated Github Cover" width="60%" >
+
 <h2> 📊  Stats</h2>
 <h2> 📞 Contact me</h2>
