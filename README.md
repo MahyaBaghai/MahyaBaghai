@@ -3,7 +3,7 @@
   <br/>
    <br/>
 </div>
-<h1> 👋 Hi there</h1>
+<h2> 👋 Hi there</h2>
 <h4>About me:</h4>
 <p>
   
@@ -14,7 +14,7 @@
 🌐 Languages: German, English  
 ✨ Ethos: "More knowledge === better life"
 </p>
-<h2> 🧰  My toolbox</h2>
+<h3> 🧰  My toolbox</h3>
 <p>
   
  <img src="assets/js.png" alt="js" width="30" height='30' />&nbsp;
@@ -33,7 +33,7 @@
 </p>
 
 <!--<h2> 📊  Stats</h2>-->
-<h2> 📞 Contact me</h2>
+<h3> 📞 Contact me</h3>
 <!--<p>
 <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>&nbsp;
