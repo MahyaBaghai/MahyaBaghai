@@ -42,8 +42,9 @@
 -->
 <p>
   <a href="https://t.me/Mahya_Baghai" target='_blank'> <img src="media/telegram.png" alt="telegram" width="30" height='30' /></a> &nbsp;
-  <a href="https://wa.link/ksu9qv" target='_blank'> <img src="media/whatsapp.png" alt="whatsapp" width="30" height='32' /> </a> &nbsp;
-  <img src="media/gmail.png" alt="gmail" width="35" height='33' title="mahya.baghai@gmail.com"/>
+  <a href="https://wa.link/ksu9qv" target='_blank'> <img src="media/whatsapp.png" alt="whatsapp" width="30" height='32' /> </a> 
    <img src="media/linkedIn.png" alt="linkedIn" width="35" height='30' />
+  <img src="media/gmail.png" alt="gmail" width="35" height='33' title="mahya.baghai@gmail.com"/> 👇
 </p>
+<p>   ✔  mahya.baghai@gmail.com </p>
 
