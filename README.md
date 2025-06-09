@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style='border:none;'>
   <img src="githubCover.gif" alt="Animated Github Cover" width="100%" >
   <br/>
    <br/>
@@ -17,18 +17,17 @@
 <h3> 🧰  My toolbox</h3>
 <p>
   
- <img src="assets/js.png" alt="js" width="30" height='30' />&nbsp;
- <img src="assets/react.png" alt="react" width="30" height='30' />&nbsp;
- <img src="assets/tailwind.png" alt="tailwind" width="30" height='30' />&nbsp;
- <img src="assets/css1.png" alt="css" width="30" height='30' /> &nbsp;
- <img src="assets/threejs.png" alt="threejs" width="30" height='30' />&nbsp;
- <img src="assets/bootstrap.png" alt="bootstrap" width="30" height='30' /> &nbsp;
- <img src="assets/reactbootstrap.png" alt="reactbootstrap" width="30" height='30' />&nbsp;
- <img src="assets/mui.png" alt="mui" width="30" height='30' />&nbsp;
- <img src="assets/html.png" alt="html" width="30" height='30' />&nbsp;
- <img src="assets/github.png" alt="github" width="30" height='30' />&nbsp;
- <img src="assets/npm.png" alt="npm" width="30" height='30' />&nbsp;
- <img src="assets/vite.png" alt="vite" width="30" height='30' />
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/js.png?raw=true"> <img src="assets/js.png" alt="js" width="30" height='30' /> </a>&nbsp;
+ <a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/react.png?raw=true"> <img src="assets/react.png" alt="react" width="30" height='30' /> </a>&nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/tailwind.png?raw=true"> <img src="assets/tailwind.png" alt="tailwind" width="30" height='30' /> </a>&nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/css1.png?raw=true"> <img src="assets/css1.png" alt="css" width="30" height='30' /> </a> &nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/threejs.png?raw=true"> <img src="assets/threejs.png" alt="threejs" width="30" height='30' /> </a>&nbsp;
+<a href="https://raw.githubusercontent.com/MahyaBaghai/MahyaBaghai/refs/heads/main/assets/bootstrap.png"> <img src="assets/bootstrap.png" alt="bootstrap" width="30" height='30' /> </a> &nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/reactbootstrap.png?raw=true"> <img src="assets/reactbootstrap.png" alt="reactbootstrap" width="30" height='30' /> </a>&nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/mui.png?raw=true"> <img src="assets/mui.png" alt="mui" width="30" height='30' /> </a>&nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/html.png?raw=true"> <img src="assets/html.png" alt="html" width="30" height='30' /> </a>&nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/npm.png?raw=true"> <img src="assets/npm.png" alt="npm" width="30" height='30' /> </a> &nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/vite.png?raw=true"> <img src="assets/vite.png" alt="vite" width="30" height='30' /> </a>
  
 </p>
 
@@ -44,6 +43,7 @@
 <p>
   <a href="https://t.me/Mahya_Baghai" target='_blank'> <img src="media/telegram.png" alt="telegram" width="30" height='30' /></a> &nbsp;
   <a href="https://wa.link/ksu9qv" target='_blank'> <img src="media/whatsapp.png" alt="whatsapp" width="30" height='32' /> </a> &nbsp;
-    <a href="https://mailto:mahya.baghai@gmail.com" target='_blank'><img src="media/gmail.png" alt="gmail" width="35" height='33' /></a>
+  <img src="media/gmail.png" alt="gmail" width="35" height='33' title="mahya.baghai@gmail.com"/>
    <img src="media/linkedIn.png" alt="linkedIn" width="35" height='30' />
 </p>
+
