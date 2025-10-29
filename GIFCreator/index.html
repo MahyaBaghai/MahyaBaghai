@@ -21,21 +21,22 @@
         }
 
         #particles-js {
-            width: 800px;
+            width: 830px;
             height: 387px;
             background-color: #0d1116;
             position: absolute;
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            border: 1px solid purple;
-            opacity: 0.9;
+            border: 1px solid #ffffff;
+            opacity: 0.5;
         }
 
         #typewriter {
             position: absolute;
             top: 50%;
             left: 50%;
+             width: 100%;
             transform: translate(-50%, -60px);
             font-size: 3rem;
             line-height: 3rem;
@@ -45,7 +46,7 @@
             font-weight: 500;
             clip: auto;
             z-index: 1;
-            background: -webkit-linear-gradient(#5115b9, #e010e3);
+            background: -webkit-linear-gradient(#e134f8 , #ffffff,  #00ccff );
             background-clip: text;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -55,6 +56,7 @@
             position: absolute;
             top: 50%;
             left: 50%;
+            width: 100%;
             transform: translate(-50%, 20px);
             font-size: 2rem;
             line-height: 3rem;
@@ -63,7 +65,7 @@
             font-family: 'Roboto', sans-serif;
             font-weight: 500;
             z-index: 1;
-            background: -webkit-linear-gradient(#5115b9, #fa00ff);
+            background: -webkit-linear-gradient(#00ccff , #ffffff,  #e134f8 );
             background-clip: text;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -83,40 +85,34 @@
 
         new Typewriter('#typewriter', {
             delay: 20,
-        }).typeString('Hey there, I\'m Cyris 👋')
+        }).typeString('Hi there, I\'m Mahya ')
             .pauseFor(3000)
             .deleteAll(10)
-            .typeString('I\'m a software developer 👨‍💻')
+            .typeString('I\'m a frontend developer ')
             .pauseFor(3000)
             .deleteAll(10)
-            .typeString('I\'m a maker 🏗')
+            .typeString('Design. Develop. Delight')
             .pauseFor(3000)
-            .deleteAll(10)
-            .typeString('I\'m an infosec enthusiast 🔒')
-            .pauseFor(3000)
-            .deleteAll(10)
-            .typeString('Check out my work 👇')
+            .deleteAll(10) 
+            .typeString('Contact me 👇')
             .pauseFor(4000)
             .start();
 
         new Typewriter('#typewriter2', {
             delay: 20,
         }).pauseFor(1000)
-            .typeString('Nice to meet you.')
+            .typeString('Nice to meet you')
             .pauseFor(2000)
-            .deleteAll(10)
-            .pauseFor(1000)
-            .typeString('Javascript, NodeJS, React, Express.')
-            .pauseFor(2000)
-            .deleteAll(10)
-            .typeString('RaspberryPi, Arduino, ESP8266, ESP32.')
-            .pauseFor(2000)
-            .deleteAll(10)
-            .typeString('Learning to protect myself and others.')
-            .pauseFor(3000)
             .deleteAll(10)
             .pauseFor(200)
-            .typeString('Follow me on twitter @sudo_overflow.')
+            .typeString('JavaScript, TypeScript, React, Next.js, TailwindCSS ')
+            .pauseFor(2000)
+            .deleteAll(10)
+            .typeString('Crafting modern, scalable, and user‑friendly interfaces')
+            .pauseFor(1300)
+            .deleteAll(10)
+            .pauseFor(200)
+            .typeString('mahya.baghai@gmail.com')
             .pauseFor(4000)
             .start();
     </script>
