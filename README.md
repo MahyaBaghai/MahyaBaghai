@@ -19,6 +19,8 @@
 <p>
   
 <a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/js.png?raw=true"> <img src="assets/js.png" alt="js" width="30" height='30' /> </a>&nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/Typescript.png?raw=true"> <img src="assets/Typescript.png" alt="js" width="30" height='30' /> </a>&nbsp;
+<a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/nextjs.png?raw=true"> <img src="assets/nextjs.png" alt="js" width="30" height='30' /> </a>&nbsp;
  <a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/react.png?raw=true"> <img src="assets/react.png" alt="react" width="30" height='30' /> </a>&nbsp;
 <a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/tailwind.png?raw=true"> <img src="assets/tailwind.png" alt="tailwind" width="30" height='30' /> </a>&nbsp;
 <a href="https://github.com/MahyaBaghai/MahyaBaghai/blob/main/assets/css1.png?raw=true"> <img src="assets/css1.png" alt="css" width="30" height='30' /> </a> &nbsp;
