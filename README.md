@@ -1,5 +1,5 @@
 <div align="center" style='border:none;'>
-  <img src="myGithubCover.gif" alt="Animated Github Cover" width="100%" >
+  <img src="githubCover.gif" alt="Animated Github Cover" width="100%" >
   <br/>
    <br/>
 </div>
