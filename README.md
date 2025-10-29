@@ -8,7 +8,7 @@
 <h2>About me:</h2>
 <h3> Frontend developer | Software Engineering Graduate</h3> </br>
 <p> 💻 Proficient in: JavaScript(ES6) | TypeScript | React | Next.js | TailwindCSS | CSS | HTML </p>
-  <p>🎨 UI/UX & Design: Transforming Figma concepts into clean, responsive components  </p>
+<p>🎨 UI/UX & Design: Transforming Figma concepts into clean, responsive components  </p>
 <p>🗄️ Other Skills: Familiar with SQL server, Adobe Photoshop</p>
 <p>📚 Current Learning: Three.js & 3D Frontend Design </p>
 <p>🤖  Interests: Expanding expertise in Backend Development & Artificial Intelligence   </p>
@@ -34,13 +34,11 @@
  
 </p></br>
 
-<!--<h2> 📊  Stats</h2>-->
+
 <h2> 📞 Contact me</h2>
 
 <p>
   <a href="https://t.me/Mahya_Baghai" target='_blank'> <img src="media/telegram.png" alt="telegram" width="30" height='30' /></a> &nbsp;
-  <img src="media/whatsapp.png" alt="whatsapp" width="30" height='32' /></a>
+  <a href="https://wa.link/f24t5n" target='_blank'><img src="media/whatsapp.png" alt="whatsapp" width="30" height='32' /></a>
     <a href="https://linkedin.com/in/mahya-baghai-barjin" target='_blank'><img src="media/linkedIn.png" alt="linkedIn" width="35" height='30' /></a>
 </p>
-
-
